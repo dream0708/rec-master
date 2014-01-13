@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item
+        android:id="@+id/menuPriorities"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="定位优先级">
+    </item>
+    <item
+        android:id="@+id/menuAbout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="关于HelloMap"/>
+    <item
+        android:id="@+id/menuExit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="退出"/>
+
+</menu>

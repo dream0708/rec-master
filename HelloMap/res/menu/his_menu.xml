@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/menuAbout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="关于HelloMap"/>
+    <item
+        android:id="@+id/menuHis"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="轨迹图"/>
+    
+    <item
+        android:id="@+id/menuExit"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="退出"/>
+
+</menu>
